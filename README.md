@@ -5,3 +5,4 @@
 2. Pandas - Data manipulation and Data Cleaning
 3. MatplotLib - Data Visualisation
 4. SciKit-Learn - Data Modelling
+5. Open-Cv - Image, Video processing
